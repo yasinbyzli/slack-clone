@@ -1,6 +1,7 @@
 
 # Slack Clone
 
+Merhabalar, bu projemde slack uygulamasının clone halini yaptım. Proje kapsamında ekiplerin her projeye ayrı bir kanal oluşturup mesajlaşabilme özelliğini dikkate alarak geliştirdim. Firebase kullanarak verilerin saklanabilmesini ve google authentication kullanarakta kullanıcını sisteme giriş yapabilmesini sağladım.
 
 
 ### Tech
